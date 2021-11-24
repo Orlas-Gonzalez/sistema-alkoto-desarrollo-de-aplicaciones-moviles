@@ -1,13 +1,10 @@
-# Welcome page, Login Page and Sign up page - Flutter UI
+# Proyecto Final De La Materia De Desarrollo De Aplicaciones Moviles
 
-## [Watch it on YouTube](https://youtu.be/ExKYjqgswJg)
+**Integrantes**
 
-**Packages we are using:**
+- Jesús Emmanuel Duarte Calvo; Expediente: 234924
+- Marcos Orlando García González; Expediente: 283169
+- Jenifer Gúzman Villar; Expediente: 272527
+- Eduardo Olvera Ortiz; Expediente: 283174
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-We design 3 screens first one is a welcome screen like then user open your app it shows then users have two options, if he has an account then press the login button and it just shifts him to the login screen or if he or she don't have an account then press signup button its transfers to the signup screen.
-
-### Auth UI
-
-![App UI](/UI.png)
+Si ve esto, po favo ponganos 10 nos esforzamos mucho. XOXO
